@@ -1,3 +1,4 @@
 # OpenWindow
 OpenWindow Project Repository
-The code will be released on 22nd July.
+The codes are placed in the repository and the description will be released by mid-August!
+
