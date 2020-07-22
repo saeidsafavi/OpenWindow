@@ -1,0 +1,23 @@
+[tool.poetry]
+name = "openwindow"
+version = "0.1.0"
+description = "Implementation of the baseline system for Open-Window"
+authors = ["Turab Iqbal <t.iqbal@surrey.ac.uk>"]
+license = "ISC"
+
+[tool.poetry.dependencies]
+python = "^3.7"
+numpy = "^1.19.0"
+pandas = "^1.0.5"
+torch = "^1.5.1"
+torchaudio = "^0.5.1"
+tqdm = "^4.48.0"
+tensorboard = "^2.2.2"
+scikit-learn = "^0.23.1"
+
+[tool.poetry.dev-dependencies]
+flake8 = "^3.8.3"
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
